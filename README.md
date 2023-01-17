@@ -10,7 +10,7 @@ I'm Mateusz Statkiewicz a FronEnd developer.
 
 - 🔭 I’m currently working at @Capgemini
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- I’m open to some new project ideas a collaboration!
+- I’m open for some new projects or a collaboration!
 - 📫 How to reach me: statkiewicz.m.office@gmail.com
 - ⚡ Fun fact: I make no a bad cup of coffe and am a tennis amateur
 
