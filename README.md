@@ -4,14 +4,14 @@ I'm Mateusz Statkiewicz a FronEnd developer.
 
 :mailbox: Get in touch with me!
 
-[![Linkedin Badge](https://img.shields.io/badge/-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateuszs-statkiewicz//) [![Mail Badge](https://img.shields.io/badge/-keitar6-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:statkiewicz.m.office@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateuszs-statkiewicz//) [![Mail Badge](https://img.shields.io/badge/-keitar6-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:statkprivate@gmail.com)
 
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working at @Capgemini
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - I’m open for some new projects or a collaboration!
-- 📫 How to reach me: statkiewicz.m.office@gmail.com
+- 📫 How to reach me: statkprivate@gmail.com
 - ⚡ Fun fact: I make no a bad cup of coffe and am a tennis amateur
 
 #### My Main Technologies
@@ -23,4 +23,4 @@ I'm Mateusz Statkiewicz a FronEnd developer.
 #### Let's Talk Business
 
 - :paperclip: [My Resume/CV]()
-- :email: statkiewicz.m.office@gmail.com
+- :email: statkprivate@gmail.com
