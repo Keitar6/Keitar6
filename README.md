@@ -22,6 +22,6 @@ I'm Mateusz Statkiewicz a FronEnd developer.
 
 #### Let's Talk Business
 
-- :paperclip: [My Resume/CV]((https://github.com/Keitar6/Keitar6/files/10574120/Mateusz_Statkiewicz_CV.pdf)
+- :paperclip: [My Resume/CV]
 )
 - :email: statkprivate@gmail.com
