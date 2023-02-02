@@ -4,7 +4,7 @@ I'm Mateusz Statkiewicz a FronEnd developer.
 
 :mailbox: Get in touch with me!
 
-[![Linkedin Badge](https://img.shields.io/badge/-keitar6-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateuszs-statkiewicz//) [![Mail Badge](https://img.shields.io/badge/-keitar6-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:statkprivate@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-MateuszS-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateuszs-statkiewicz//) [![Mail Badge](https://img.shields.io/badge/-statkprivate-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:statkprivate@gmail.com)
 
 <!-- TODO: Add last video link -->
 
